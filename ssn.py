@@ -1,5 +1,7 @@
 print ('==============================')
 print ('Social Security Number Validator')
+print ('')
+print ('version 0.1')
 print ('==============================')
 country = input('Enter Country (sv,dk, no, fi): ')
 ssn = input('Enter Social Security Number (SSN): ')
