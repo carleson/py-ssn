@@ -1,3 +1,5 @@
-import ssn
+import SSN.py
 
-my_ssn = ssn('sv','19020101-0101')
+ssn = SSN('sv','19020101-0101')
+print (ssn.printThis('Test'))
+
